@@ -2,6 +2,8 @@
 
 Custom keymap for Preonic by Ally Hilgefort.
 
+![](./allyhilgefort-preonic.png)
+
 # Develop
 
 How to customize/tweak the layout.
